@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT'S MY RESUME</title>
+</head>
+<body>
+    <h1 style="text-align: center;background-color: antiquewhite;">RESUME</h1>
+   <hr>
+    <h3 style="text-align: center;font-style: oblique;color:darkblue; margin: 5px;">SEEPANA PAVAN KUMAR</h3>
+   <div style="display: flex;justify-content:space-evenly ;height: 20px;">
+    <h4>E-mail:resume.gmail.com</h4>
+    <h4>Phone.no:9154593068</h4>
+    <div>
+        <h4>github</h4>
+    </div>
+   </div>
+
+<h2 style="border: 2px solid;text-align: center;background-color: beige;">Education</h2>
+<ul style="background-color: lightpink;">
+
+    <li>ssc-sri sai vidya mandir</li>
+    <li>inter-sri chaitanya</li>
+    <li>B.tech-ANITS</li>
+</ul>
+ <h2 style="text-align: center;border: 2px solid;background-color: bisque;">Objective
+    
+ </h2>
+ <p style="font-size: large;">to enhance better challenging career in path</p>
+ <h3 style="text-align: center;border: 2px solid;background-color: bisque;">Languages known </h3>
+ <ol>
+    <li>telugu</li>
+    <li>hindi</li>
+    <li>english
+        <li>tamil</li>
+    </li>
+ </ol>
+ <h3 style="text-align: center;border: 2px solid;background-color: bisque;">Self Details</h3>
+ <span>Name:SEEPANA PAVAN KUAMR</span>
+ <p>Date of birth:12-10-2004</p>
+ <p>hobbies:watching movies</p>
+ <hr>
+<h2 style="color: darkgoldenrod;text-align: center;font-style:italic;">THANK YOU TO READ MY RESUME</h2>
+<hr style="lighting-color: aquamarine;">
+</body>
+</html>
